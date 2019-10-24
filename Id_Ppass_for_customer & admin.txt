@@ -1,0 +1,7 @@
+admin
+id - naimpabna@gmail.com
+pass - 1
+
+customer
+id - naimaney@gmail.com
+pass - 112233
